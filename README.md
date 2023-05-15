@@ -10,11 +10,11 @@
 <!-- </td> -->
 <td valign="center">
 <p>
- Hello🤝,<br>My name is Omar Jeng and I am a Full-stack Web and Mobile Application Developer, I have over 2 years of professional experience working with real world projects. I am a confident and practical problem solver who is able to communicate clearly at all levels. I operate well under pressure and can be trusted to complete tasks alone. I take a flexible approach to work and use my own initiatives if needed. I work well as a team member and can also function as a team leader.
+ Hello🤝,<br>My name is Omar Jeng and I am a Full-stack Web and Mobile Application Developer,<br><br>I have over 2 years of professional experience working with real world projects.<br><br>I am a confident and practical problem solver who is able to communicate clearly at all levels.<br><br>I operate well under pressure and can be trusted to complete tasks alone. I take a flexible approach to work and use my own initiatives if needed.<br><br>I work well as a team member and can also function as a team leader.
 </p>
 </td>
-<td >
-<img src="./assets/0.jpeg" height="400px" width="400px" />
+<td>
+<img src="./assets/0.jpeg" width="400px" />
 </td>
 </tr>
 
