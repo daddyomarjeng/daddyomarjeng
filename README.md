@@ -1,16 +1,24 @@
 # 💫 About Me:
 
-<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:10px">
+<table>
+<tr>
+<td >
 <!-- <img src="./assets/1.jpg" width="400px" height="400px"/> -->
 <!-- <img src="./assets/5.png" width="400px" height="400px"/> -->
 <!-- <img src="./assets/3.jpeg" width="400px" height="400px"/> -->
 <!-- <img src="./assets/2.jpg" width="400px" height="400px"/> -->
-<p style="flex:1">
+</td>
+<td valign="center">
+<p>
  I am a Web and Mobile Application Developer with over 2 years of professional experience. I am a confident and practical problem<br>solver who is able to communicate clearly at all levels. I operate well under pressure and can be trusted to complete tasks alone. I<br>take a flexible approach to work and use my own initiatives if needed. I work well as a team member and can also function as a team<br>leader.<br>
 </p>
-<img src="./assets/0.jpeg" width="400px" height="400px"/>
+</td>
+<td >
+<img src="./assets/0.jpeg" />
+</td>
+</tr>
 
-</div>
+</table>
 
 ## 🌐 Socials:
 
@@ -22,9 +30,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=doj-gam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=doj-gam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doj-gam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=doj-gam&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    </td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=doj-gam&theme=dark&hide_border=false"/>
+    </td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doj-gam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
