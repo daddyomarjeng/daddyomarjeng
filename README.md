@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<table cellpadding="10">
+<table cellpadding="0" >
 <tr>
 <!-- <td > -->
 <!-- <img src="./assets/1.jpg" width="400px" height="400px"/> -->
