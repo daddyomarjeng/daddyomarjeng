@@ -14,7 +14,7 @@
 </p>
 </td>
 <td >
-<img src="./assets/0.jpeg" width="600px" />
+<img src="./assets/0.jpeg" />
 </td>
 </tr>
 
