@@ -1,16 +1,13 @@
 # 💫 About Me:
 
-
-<!-- <td > -->
+<img src="./assets/0.jpeg"/>
 <!-- <img src="./assets/1.jpg" width="400px" height="400px"/> -->
 <!-- <img src="./assets/5.png" width="400px" height="400px"/> -->
 <!-- <img src="./assets/3.jpeg" width="400px" height="400px"/> -->
 <!-- <img src="./assets/2.jpg" width="400px" height="400px"/> -->
-<!-- </td> -->
 
 ello👋,<br/><br/>My name is Omar Jeng and I am a Full-stack Web and Mobile Application Developer,<br><br>I have over 2 years of professional experience working with real world projects.<br><br>I am a confident and practical problem solver who is able to communicate clearly at all levels.<br><br>I operate well under pressure and can be trusted to complete tasks alone. I take a flexible approach to work and use my own initiatives if needed.<br><br>I work well as a team member and can also function as a team leader.
 
-<img src="./assets/0.jpeg"/>
 
 
 ## 🌐 Socials:
