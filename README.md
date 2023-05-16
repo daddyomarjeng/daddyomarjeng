@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="./assets/0.jpeg" width="500px" height="400px" align="right"/>
+<img src="./assets/0.jpeg" width="500px" height="450px" align="right"/>
 <!-- <img src="./assets/1.jpg" width="400px" height="400px"/> -->
 <!-- <img src="./assets/5.png" width="400px" height="400px"/> -->
 <!-- <img src="./assets/3.jpeg" width="400px" height="400px"/> -->
